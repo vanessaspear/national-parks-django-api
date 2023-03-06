@@ -74,6 +74,7 @@ In the planning stages, we used DB Diagram to create an entity relationship diag
 - NPM
 - Leaflet
 - Bootstrap
+- Pillow
 
 Navigate to your workspace directory. 
 
